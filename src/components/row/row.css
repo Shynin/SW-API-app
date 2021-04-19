@@ -1,0 +1,8 @@
+.row {
+    margin-bottom: 2rem;
+}
+
+.col-md-6:nth-of-type(1) {
+    max-height: 20rem;
+    /* overflow-y: scroll; */
+}
